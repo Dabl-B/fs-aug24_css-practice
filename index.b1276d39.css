@@ -100,4 +100,8 @@ img {
   align-items: center;
   display: flex;
 }
+
+.pay:before {
+  content: ", $";
+}
 /*# sourceMappingURL=index.b1276d39.css.map */
