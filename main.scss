@@ -116,3 +116,7 @@ img {
     align-items: center;
     
 }
+
+.pay::before {
+    content: ',\00a0$';
+  }
